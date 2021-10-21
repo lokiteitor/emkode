@@ -1,0 +1,2 @@
+# emkode
+Python/Django project
